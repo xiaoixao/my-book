@@ -1,0 +1,23 @@
+{
+  "name": "my-book",
+  "version": "1.0.0",
+  "description": "手动构建 自动化构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoixao/my-book.git"
+  },
+  "keywords": [],
+  "author": "rongxiaohong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoixao/my-book/issues"
+  },
+  "homepage": "https://github.com/xiaoixao/my-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
